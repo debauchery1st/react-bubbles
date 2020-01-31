@@ -28,7 +28,7 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [✓] Explain what a token is used for.
 
-  authentication across multiple sessions.
+      authentication across multiple sessions.
 
 - [✓] What steps can you take in your web apps to keep your data secure?
 
